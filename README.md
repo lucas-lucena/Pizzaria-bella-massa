@@ -1,6 +1,8 @@
 # Pizzaria-bella-massa
 
-## Grupo: 
-- Lucas Leal de Lucena
-- Lucas do Nascimento Vicente
+## Grupo
+
 - Gustavo Henrique Nascimento Silva
+- Lucas do Nascimento Vicente
+- Lucas Leal de Lucena
+- Luiz de França Lima Neto
